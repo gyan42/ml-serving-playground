@@ -1,0 +1,4 @@
+#sudo apt-get install libcudart10.1
+#sudo apt-get install libcublas10
+#sudo apt-get install  libnvrtc10.1
+textblob
